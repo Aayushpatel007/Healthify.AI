@@ -48,7 +48,7 @@ pip install flask  => For API
 
 ### Major Android Dependencies
 ```
-Install Android Studio latest version => Sequence matching algorithm
+Install Android Studio latest version 
 ```
 
 ```
