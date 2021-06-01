@@ -22,5 +22,5 @@ six==1.11.0
 sklearn-crfsuite==0.3.6
 tabulate==0.8.2
 tqdm==4.24.0
-urllib3==1.22
+urllib3==1.26.5
 Werkzeug==0.14.1
