@@ -10,11 +10,11 @@ itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
 num2words==0.5.6
-numpy==1.14.0
+numpy==1.22.0
 pathlib==1.0.1
 plac==0.9.6
 pandas==0.20.3
-numpy==1.14.0
+numpy==1.22.0
 python-crfsuite==0.9.5
 requests==2.18.4
 semantic-version==2.6.0
